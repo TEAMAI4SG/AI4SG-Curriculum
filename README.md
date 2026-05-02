@@ -28,7 +28,6 @@ Students identify a real social problem aligned with a UN SDG, explore relevant 
 | Resource | Description | Repository |
 |----------|-------------|------------|
 | AI4SG Mini Project | Core ideation project used across all disciplines | [AI4SG_mini_project](https://github.com/TEAMAI4SG/AI4SG_mini_project) |
-| Civic AI Labs | Community-based AI ideation labs | [civic-ai-labs](https://github.com/TEAMAI4SG/civic-ai-labs) |
 | AI4SG Gemini | Ideation labs using Google Gemini | [ai4sg-gemini](https://github.com/TEAMAI4SG/ai4sg-gemini) |
 
 ### 📖 Cite Level 1
