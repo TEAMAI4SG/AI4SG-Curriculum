@@ -1,6 +1,4 @@
-Here's the complete updated README.md — select all, delete, and paste this in:
-
-markdown# AI for Social Good (AI4SG) Curriculum
+# AI for Social Good (AI4SG) Curriculum
 
 > Interdisciplinary AI education aligned with United Nations Sustainable Development Goals (UN SDGs)  
 > Sponsored by the National Science Foundation (NSF Awards #2142783, #2142439, #2142490, #2142503, #2142594)
@@ -36,21 +34,10 @@ The curriculum is structured around two intervention levels:
 
 Students identify a real social problem aligned with a UN SDG, explore relevant AI technologies, and propose an AI-powered solution through research, design thinking, and team presentation. No coding required.
 
-➡️ [AI4SG Mini Project (Ideation)](https://github.com/TEAMAI4SG/AI4SG_mini_project)
-
----
-
-## Level 2 — Prototyping (IBM Watson Lab Series)
-> Used before 2024. These labs guided students through building conversational AI agents using IBM Watson Assistant, progressing from basic setup to complex dialog design.
-
-| Lab | Topic | Repository |
-|-----|-------|------------|
-| Lab 1 | Watson Assistant Setup | [1_Watson_Assistant](https://github.com/TEAMAI4SG/1_Watson_Assistant) |
-| Lab 2a | Importing Skills in Watson | [2a_ImportingSkills_Watson](https://github.com/TEAMAI4SG/2a_ImportingSkills_Watson) |
-| Lab 2b | Building a Virtual Assistant | [2b_Virtual_Assistant](https://github.com/TEAMAI4SG/2b_Virtual_Assistant) |
-| Lab 3 | Chatbot to Conduct Interviews | [3_Chatbot_to_ConductInterviews](https://github.com/TEAMAI4SG/3_Chatbot_to_ConductInterviews) |
-| Lab 4 | Creating Conversational Flow | [4_Creating_ConversationalFlow](https://github.com/TEAMAI4SG/4_Creating_ConversationalFlow) |
-| Lab 5 | Building Complex Dialog | [5_Building_ComplexDialog](https://github.com/TEAMAI4SG/5_Building_ComplexDialog) |
+| Resource | Description | Repository |
+|----------|-------------|------------|
+| AI4SG Mini Project | Core ideation project used across all disciplines | [AI4SG_mini_project](https://github.com/TEAMAI4SG/AI4SG_mini_project) |
+| AI4SG Gemini | Ideation labs using Google Gemini | [ai4sg-gemini](https://github.com/TEAMAI4SG/ai4sg-gemini) |
 
 ---
 
@@ -69,11 +56,17 @@ Students identify a real social problem aligned with a UN SDG, explore relevant 
 
 ---
 
-## Community AI Labs
-> Advanced project repos from community-based learning implementations.
+## Level 2 — Prototyping (IBM Watson Lab Series)
+> Used before 2024. These labs guided students through building conversational AI agents using IBM Watson Assistant, progressing from basic setup to complex dialog design.
 
-- [civic-ai-labs](https://github.com/TEAMAI4SG/civic-ai-labs)
-- [ai4sg-gemini](https://github.com/TEAMAI4SG/ai4sg-gemini)
+| Lab | Topic | Repository |
+|-----|-------|------------|
+| Lab 1 | Watson Assistant Setup | [1_Watson_Assistant](https://github.com/TEAMAI4SG/1_Watson_Assistant) |
+| Lab 2a | Importing Skills in Watson | [2a_ImportingSkills_Watson](https://github.com/TEAMAI4SG/2a_ImportingSkills_Watson) |
+| Lab 2b | Building a Virtual Assistant | [2b_Virtual_Assistant](https://github.com/TEAMAI4SG/2b_Virtual_Assistant) |
+| Lab 3 | Chatbot to Conduct Interviews | [3_Chatbot_to_ConductInterviews](https://github.com/TEAMAI4SG/3_Chatbot_to_ConductInterviews) |
+| Lab 4 | Creating Conversational Flow | [4_Creating_ConversationalFlow](https://github.com/TEAMAI4SG/4_Creating_ConversationalFlow) |
+| Lab 5 | Building Complex Dialog | [5_Building_ComplexDialog](https://github.com/TEAMAI4SG/5_Building_ComplexDialog) |
 
 ---
 
@@ -90,6 +83,6 @@ See what students have built using this curriculum:
 
 ---
 
-## 🌐 Project Website
+## Project Website
 
 👉 [aiforsocialgood.org](https://www.aiforsocialgood.org)
