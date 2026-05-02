@@ -7,16 +7,7 @@
 
 ## 📋 Citation Requirement
 
-The AI4SG curriculum is openly available for educational use. **If you use any part of this curriculum in your course, program, or research, you are required to cite the relevant publication(s) below:**
-
-**If using the full AI4SG pedagogy framework:**
-> Yu Chen, Leslie J. Albert, and Heather Macias. (2023) Prototyping AI-Powered Social Innovation in an Undergraduate MIS course. *International Conference on Information Systems (ICIS) 2023.* Best Short Paper Nominee.
-
-**If using the AI ethics or debate module:**
-> Yu Chen, Scott Jensen, Malu Roldan, Shannon Harper. (2023) Pro or Con? Introducing AI Ethics Debates in an Undergraduate MIS Course. *The American Conference on Information Systems (AMCIS) 2023.* Best AMCIS 2023 Top 25% ERF Papers.
-
-**If using the introductory MIS module:**
-> Yu Chen and Timothy Hill. (2023). AI for Social Good (AI4SG) Education in an Undergraduate Introductory MIS Course. *The American Conference on Information Systems (AMCIS) 2023.* Best AMCIS 2023 Top 25% ERF Papers.
+The AI4SG curriculum is openly available for educational use. **If you use any part of this curriculum in your course, program, or research, you are required to cite the relevant publication(s) listed under each level below.**
 
 For BibTeX and other citation formats, see [how-to-cite.md](./how-to-cite.md).
 
@@ -37,7 +28,16 @@ Students identify a real social problem aligned with a UN SDG, explore relevant 
 | Resource | Description | Repository |
 |----------|-------------|------------|
 | AI4SG Mini Project | Core ideation project used across all disciplines | [AI4SG_mini_project](https://github.com/TEAMAI4SG/AI4SG_mini_project) |
+| Civic AI Labs | Community-based AI ideation labs | [civic-ai-labs](https://github.com/TEAMAI4SG/civic-ai-labs) |
 | AI4SG Gemini | Ideation labs using Google Gemini | [ai4sg-gemini](https://github.com/TEAMAI4SG/ai4sg-gemini) |
+
+### 📖 Cite Level 1
+
+> Yu Chen, Gabriel Granco, Yunfei Hou, Heather Macias, Frank A. Gomez. AI for Social Good Education at Hispanic Serving Institutions. *Proceedings of the AAAI Symposium Series, v.3,* 2024.
+
+> Yu Chen and Timothy Hill. (2023). AI for Social Good (AI4SG) Education in an Undergraduate Introductory MIS Course. *The American Conference on Information Systems (AMCIS) 2023.*
+
+> Yu Chen, Leslie Jordan Albert, and Scott Jensen. Innovation Farm: Teaching Artificial Intelligence through Gamified Social Entrepreneurship in an Introductory MIS Course. *Decision Sciences Journal of Innovative Education.* 2021.
 
 ---
 
@@ -54,6 +54,10 @@ Students identify a real social problem aligned with a UN SDG, explore relevant 
 | Lab 6 | Visual Studio & Streamlit App Deployment | [Lab6-VisualStudio-Streamlit](https://github.com/TEAMAI4SG/Lab6-VisualStudio-Streamlit) |
 | Lab 7 | Intro to Git & GitHub | [Lab7-Intro-Git-GitHub](https://github.com/TEAMAI4SG/Lab7-Intro-Git-GitHub) |
 
+### 📖 Cite Level 2 (OpenAI)
+
+> Yee Kit Chan\*, Erica Lai\*, Yu Chen. Teaching Undergraduate MIS Students Hands-on Generative AI Development Skills. *Journal of Information Systems Education.* 2026. \*undergraduate student as co-authors.
+
 ---
 
 ## Level 2 — Prototyping (IBM Watson Lab Series)
@@ -67,6 +71,14 @@ Students identify a real social problem aligned with a UN SDG, explore relevant 
 | Lab 3 | Chatbot to Conduct Interviews | [3_Chatbot_to_ConductInterviews](https://github.com/TEAMAI4SG/3_Chatbot_to_ConductInterviews) |
 | Lab 4 | Creating Conversational Flow | [4_Creating_ConversationalFlow](https://github.com/TEAMAI4SG/4_Creating_ConversationalFlow) |
 | Lab 5 | Building Complex Dialog | [5_Building_ComplexDialog](https://github.com/TEAMAI4SG/5_Building_ComplexDialog) |
+
+### 📖 Cite Level 2 (IBM Watson)
+
+> Yu Chen, Leslie J. Albert, and Heather Macias. (2023) Prototyping AI-Powered Social Innovation in an Undergraduate MIS course. *International Conference on Information Systems (ICIS) 2023.* Best Short Paper Nominee.
+
+> Ellen Zheng, Yu Chen, Yee Kit Chan\*, Erica Lai\*, Leslie J. Albert. Developing Chatbots for Sustainability: Experiential Learning in an Undergraduate Management Information Systems (MIS) Course. *The 15th Symposium on Educational Advances in Artificial Intelligence (EAAI) 2025.* \*undergraduate student as co-authors.
+
+> Gabriel Granco, Yu Chen, Ellen Zheng. What Students Learn When They Build an Artificial Intelligence Solution for Climate Change Action. *The 15th Symposium on Educational Advances in Artificial Intelligence (EAAI) 2025.*
 
 ---
 
@@ -83,6 +95,8 @@ See what students have built using this curriculum:
 
 ---
 
-## Project Website
+## 🌐 Project Website
 
 👉 [aiforsocialgood.org](https://www.aiforsocialgood.org)
+
+---
